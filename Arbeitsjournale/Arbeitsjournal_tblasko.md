@@ -29,7 +29,7 @@ Entsprechend war ein Punkt somit nur zum Teil erfüllt, nebst dem ein oder ander
 Die Benotung ist somit in Augen unserer Gruppe fair.
 
 Mittwoch 29.03.2023</br>
-Zeitaufwand: 2 Stunden.</br>
+Zeitaufwand: 2 Lektionen.</br>
 Der nächste Schritt in unserem Projekt steht an: das Konzept. Hier geht es darum, uns Gedanken darum zu machen, wie wir das Projekt umsetzen.
 Bereits jetzt sollen wir mit dem Proof of Concept bestimmen, welche Schritte wir umsetzen können und welche nicht.
 Meine Idee ist es anhand von Skripts und Parametern die Schritte, die funktionieren, später zu automatisieren, damit wir schneller sind.
