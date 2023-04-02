@@ -20,3 +20,19 @@ Zudem haben wir dieses Repository erstellt, in dem wir unsere Arbeitsjournale sp
 Samstag 11.03.2023</br>
 Zeitaufwand: 2 Stunden.</br>
 Da morgen bereits die Abgabe der Initialisierung stattfinden soll, haben wir das Lastenheft und die Testkonzepte fertiggestellt. Meine Gruppenmitglieder haben bereits vor mir angefangen. Als ich mich dann auch angeschlossen habe, durfte ich die letzten Testfälle beschreiben und Verfeinerungen treffen. Schwierig war bei den Testfällen die Testvoraussetzung nicht mit dem zu erwartendem Resultat zu verwechseln.
+
+Mittwoch 22.03.2023</br>
+Zeitaufwand: 30 Mintuen.</br>
+Gegen Schluss des Unterrichts haben wir noch unsere Bewertung für die Projektinitialisierung bekommen.
+Die Note 5.2 entspricht einer fast schon sehr guten Bewertung und basiert darauf einen Termin nicht vorzeitig geplant zu haben.
+Entsprechend war ein Punkt somit nur zum Teil erfüllt, nebst dem ein oder anderen Punkt, der auch nicht vollständig erfüllt ist.
+Die Benotung ist somit in Augen unserer Gruppe fair.
+
+Mittwoch 29.03.2023</br>
+Zeitaufwand: 2 Stunden.</br>
+Der nächste Schritt in unserem Projekt steht an: das Konzept. Hier geht es darum, uns Gedanken darum zu machen, wie wir das Projekt umsetzen.
+Bereits jetzt sollen wir mit dem Proof of Concept bestimmen, welche Schritte wir umsetzen können und welche nicht.
+Meine Idee ist es anhand von Skripts und Parametern die Schritte, die funktionieren, später zu automatisieren, damit wir schneller sind.
+Ich habe bereits ein Shellskript geschrieben, welches ein paar Aufgaben abnehmen soll. Es handelt sich aber lediglich um einen Entwurf.
+Das Skript, das wir später verwenden werden, wird etwas anders aussehen. Zudem kommen YAML Dateien dazu.
+Für die Migration der Datenbank werden wir vermutlich einen SQL Dump verwenden. Alles weitere folgt
