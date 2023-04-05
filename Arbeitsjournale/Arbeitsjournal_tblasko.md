@@ -40,3 +40,11 @@ Ich habe bereits ein Shellskript geschrieben, welches ein paar Aufgaben abnehmen
 Das Skript, das wir später verwenden werden, wird etwas anders aussehen. Zudem kommen YAML Dateien dazu.
 Für die Migration der Datenbank werden wir vermutlich einen SQL Dump verwenden. Alles weitere folgt
 ---
+Mittwoch 05.04.2023</br>
+Zeitaufwand: 2 Lektionen.</br>
+> Das Bewertungsdokument wurde nochmals angepasst. In unserem Fall bliebt die Note genau gleich. Zu Verbessern sind das Glossar und die Arbeitsjournale. Bei mir und bei einem weiteren Gruppenmitglied fehlten die Erfolge und Misserfolge. Zudem gibt es noch Luft nach oben mit der Optik. Das habe ich angepasst. Beim Glossar werden wir in Zukunft die Wörter noch erklären.
+---
+|Erfolge|Misserfolge|
+|---|---|
+|Die Note bliebt bei einer 5.2.|Glossar und Arbeitsjournal waren nicht optimal und werden in Zukunft besser gemacht.|
+---
