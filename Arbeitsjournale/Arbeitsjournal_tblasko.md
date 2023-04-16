@@ -48,3 +48,11 @@ Zeitaufwand: 2 Lektionen.</br>
 |---|---|
 |Die Note bliebt bei einer 5.2.|Glossar und Arbeitsjournal waren nicht optimal und werden in Zukunft besser gemacht.|
 ---
+Sonntag 16.04.2023</br>
+Zeitaufwand: 1 Stunde.</br>
+> Für das Proof Of Concept gab es keine Vorlage vom Unterrichtsstoff her, weswegen mich die anderen Gruppenmitglieder darum gebeten haben eine Vorlage im Internet zu suchen, jedoch hatte ich keinen Erfolg bei der Suche. Die Vorlagen waren meist zu komplex und zu lang für unsere Zwecke. Es gab wenige brauchbare Vorlagen, jedoch waren diese von Seiten herunterzuladen, die eine Registrierung mit Zahlungsmittel verlangten. Daher entschieden wir uns das Proof Of Concept gleich selbst zu erstellen. Zudem fehlten noch die Konfigurationsmerkmale. Schwierig hierbei war zu bestimmen, wie detailliert diese zu beschreiben sind. Da wir bereits eine komplexe tabellarische Liste an Anforderungen bei der Initialisierung erstellt haben, entschied ich mich dazu die Systemanforderungen sehr konkret zu beschreiben. Beispielsweise "Moodle muss auf der Version 4.1.2+ installiert werden".
+---
+|Erfolge|Misserfolge|
+|---|---|
+|Konkrete Deklarierung der Konfigurationsmerkmale.|Keine geeignete Vorlage für das POC im Internet gefunden.|
+---
