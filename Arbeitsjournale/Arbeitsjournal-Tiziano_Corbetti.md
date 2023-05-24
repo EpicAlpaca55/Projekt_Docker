@@ -30,7 +30,7 @@ Nächste Arbeitsschritte:
 
 Lastenheft fertigschreiben, Testfälle schreiben und den Zeitplan erstellen.
 
-# 11.03.2023 KW10
+# 11.03.2023 KW11
 
 Am heutigen Tag habe ich 180 Minuten am Projekt gearbeitet.
 
