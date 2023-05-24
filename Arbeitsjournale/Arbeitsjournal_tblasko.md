@@ -56,3 +56,14 @@ Zeitaufwand: 1 Stunde.</br>
 |---|---|
 |Konkrete Deklarierung der Konfigurationsmerkmale.|Keine geeignete Vorlage für das POC im Internet gefunden.|
 ---
+Mittwoch 17.05.2023</br>
+Zeitaufwand: 2 Lektionen.</br>
+> Nach einer PowerShell Übung über die automatische Aufgabenplanung haben wir den neuen Projektauftrag über die Einführung bzw. Realisierung durchgelesen.
+Nach Aufgabenplanung bin ich für den Datenbanken Export bzw. den MySQL Dump zuständig.
+Zudem muss ich das Dump-Skript dann so anpassen, dass der Datenbank-User ebenfalls neu erstellt wird.
+Ich habe damit jedoch noch nicht begonnen, sondern zuerst die notwendigen Dokumente erstellt und die Präsentation vorbereitet.
+---
+|Erfolge|Misserfolge|
+|---|---|
+|Erfolgreiche Erstellung der Dokumente.|Nicht mehr dazugekommen die Datenbank zu exportieren.|
+---
