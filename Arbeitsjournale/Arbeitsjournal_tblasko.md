@@ -67,3 +67,16 @@ Ich habe damit jedoch noch nicht begonnen, sondern zuerst die notwendigen Dokume
 |---|---|
 |Erfolgreiche Erstellung der Dokumente.|Nicht mehr dazugekommen die Datenbank zu exportieren.|
 ---
+Mittwoch 24.05.2023</br>
+Zeitaufwand: 3 Lektionen.</br>
+> Der Moodle MySQL Dump war etwas kompliziert.
+Der Dump an sich konnte leicht erstellt werden mit dem mysqldump Befehl.
+Jedoch fehlte der notwendige User, der auch ein komisches Passwort hatte.
+Franziska hat das Passwort bereits herausgefunden, was mir sehr geholfen hat.
+Im Dump musste ich also den User noch ergänzen.
+Leider konnte ich den Dump nicht mehr testen.
+---
+|Erfolge|Misserfolge|
+|---|---|
+|Erstellung des Dump|Dump wurde noch nicht getestet.|
+---
