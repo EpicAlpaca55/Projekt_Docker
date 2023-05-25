@@ -1,8 +1,11 @@
 version: '3.9'
 services:
   apache:
-    image: httpd:latest
+    restart: always
+    image: php:apache
     ports:
     - '8080:80'
     volumes:
-    - /home/vmadmin/moodle_data:/usr/local/apache2/htdocs
+    - /home/vmadmin/moodle_data:/var/www/html
+
+
