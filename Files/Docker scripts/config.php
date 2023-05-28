@@ -6,7 +6,7 @@ $CFG = new stdClass();
 
 $CFG->dbtype    = 'mysqli';
 $CFG->dblibrary = 'native';
-$CFG->dbhost    = 'localhost';
+$CFG->dbhost    = '172.18.0.2';
 $CFG->dbname    = 'moodle';
 $CFG->dbuser    = 'debian-sys-maint';
 $CFG->dbpass    = 'vaIdfgRPSXzKbPPd';
@@ -17,6 +17,8 @@ $CFG->dboptions = array (
   'dbsocket' => '',
   'dbcollation' => 'utf8mb4_unicode_ci',
 );
+$CFG->debug = (E_ALL | E_STRICT);
+$CFG->debugdisplay = true;
 
 $CFG->wwwroot   = 'http://localhost';
 $CFG->dataroot  = '/var/www/html/moodledata';
