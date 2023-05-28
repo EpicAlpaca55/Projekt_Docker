@@ -2,10 +2,18 @@ version: '3.9'
 services:
   apache:
     restart: always
-    image: php:apache
+    build: .
     ports:
     - '8080:80'
     volumes:
     - /home/vmadmin/moodle_data:/var/www/html
 
-
+  moodledb:
+    image: 'mysql:latest'
+    restart: always
+    volumes:
+      - /home/vmadmin/mysql-dump:/docker-entrypoint-initdb.d
+    ports:
+      - 3306:3306
+    environment:
+      MYSQL_RANDOM_ROOT_PASSWORD: yes
