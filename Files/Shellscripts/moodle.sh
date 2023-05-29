@@ -3,7 +3,7 @@
 # Datum:        29.03.2023 14:39
 # Entwickler:   Tibor Blasko, Franziska Tobler, Tiziano Corbetti
 # Skriptname:   moodle.sh
-# Beschreibung: Skript als Hilfe zur Migrierung von Moodle in Container.
+# Beschreibung: Skript als Hilfe zur Migration von Moodle in Container.
 ########################################################################
 
 # Nur damit alles aktuell ist.
