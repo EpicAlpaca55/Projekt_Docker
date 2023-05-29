@@ -12,11 +12,13 @@ RUN ln -snf /usr/share/zoneinfo/$TZ  /etc/localtime && \
     echo $TZ > /etc/timezone && \
     apt-get update && \
     apt-get install -y apt-utils apache2 && \
-    apt-get -y clean && \
-    apt install -y php && \
-    apt install php-mysqli
+    apt-get -y clean
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+ENV DEBIAN_FRONTEND=noninteractive
+RUN apt-get update && \
+    apt-get install -y php libapache2-mod-php php-mysqli
 
-
+COPY 000-default.conf /etc/apache2/sites-available/
 # Ports 80freigeben
 EXPOSE 80
 

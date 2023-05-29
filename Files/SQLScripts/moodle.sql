@@ -18,12 +18,12 @@
 --
 -- Table structure for table `mdl_analytics_indicator_calc`
 --
-
+Create Database moodle;
 USE moodle;
 DROP USER IF EXISTS 'debian-sys-maint'@'localhost';
 DROP USER IF EXISTS 'debian-sys-maint'@'%';
-CREATE USER 'debian-sys-maint'@'localhost' IDENTIFIED BY 'valdfgRPSXzKbPPd';
-CREATE USER 'debian-sys-maint'@'%' IDENTIFIED BY 'valdfgRPSXzKbPPd';
+CREATE USER 'debian-sys-maint'@'localhost' IDENTIFIED BY 'vaIdfgRPSXzKbPPd';
+CREATE USER 'debian-sys-maint'@'%' IDENTIFIED BY 'vaIdfgRPSXzKbPPd';
 GRANT ALL PRIVILEGES ON moodle TO 'debian-sys-maint'@'localhost';
 GRANT ALL PRIVILEGES ON moodle TO 'debian-sys-maint'@'%';
 
