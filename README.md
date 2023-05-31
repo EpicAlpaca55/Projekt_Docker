@@ -1,4 +1,4 @@
-![banner](https://github.com/EpicAlpaca55/Projekt_Docker/assets/98404509/97deab8e-1842-4e4a-ae80-2afad45f3a58)
+![new_banner](https://github.com/EpicAlpaca55/Projekt_Docker/assets/98404509/66386d22-9c9c-41e1-b038-b8bcd93b2ae2)
 #### Tiziano Corbetti, Franziska Tobler, Tibor Blasko
 ---
 > - Datum: 04.06.2023
