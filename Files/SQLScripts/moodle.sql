@@ -18,7 +18,7 @@
 --
 -- Table structure for table `mdl_analytics_indicator_calc`
 --
-CEATE DATABASE moodle;
+CREATE DATABASE moodle;
 USE moodle;
 DROP USER IF EXISTS 'debian-sys-maint'@'localhost';
 DROP USER IF EXISTS 'debian-sys-maint'@'%';
