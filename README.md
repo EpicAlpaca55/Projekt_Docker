@@ -3,12 +3,18 @@
 ---
 
 # Moodle und dazuhehörige Komponenten als Microservices in Container migrieren
+
+<img src="https://cdn-icons-png.flaticon.com/128/3715/3715109.png" style="width: 50px; height: 50px;">
+
 > - Datum: 04.06.2023
 > - Modul: M158, M169
 
 ---
 
 ### Mitwirkende:
+
+<img src="https://cdn-icons-png.flaticon.com/128/5371/5371017.png" style="width: 50px; height: 50px;">
+
 > - Tiziano Corbetti
 > - Franziska Tobler
 > - Tibor Blasko
@@ -16,6 +22,9 @@
 ---
 
 ### Beschreibung:
+
+<img src="https://cdn-icons-png.flaticon.com/128/7032/7032407.png" style="width: 50px; height: 50px;">
+
 > - Das GitHub-Repository zum Projektauftrag der Moodle-Migration.
 > - Der Inhalt besteht aus Initialisierung, Konzept, praktischer Umsetzung und der Einführung.
 > - Die Lernjournale sind ebenfalls hier abgelegt.
@@ -23,6 +32,9 @@
 ---
 
 ### Inhalt:</br>
+
+<img src="https://cdn-icons-png.flaticon.com/128/8164/8164154.png" style="width: 50px; height: 50px;">
+
 > - [Arbeitsjournale](/Arbeitsjournale)
 > - [Dokumente](/Dokumente)
 > - [Files](/Files)
