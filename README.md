@@ -1,15 +1,24 @@
 ![new_banner](https://github.com/EpicAlpaca55/Projekt_Docker/assets/98404509/66386d22-9c9c-41e1-b038-b8bcd93b2ae2)
 
-#### Tiziano Corbetti, Franziska Tobler, Tibor Blasko
 ---
 
+# Moodle und dazuhehörige Komponenten als Microservices in Container migrieren
 > - Datum: 04.06.2023
 > - Modul: M158, M169
-### Moodle und dazuhehörige Komponenten als Microservices in Container migrieren</br>
 
-- Das GitHub-Repository zum Projektauftrag der Moodle-Migration.
-- Der Inhalt besteht aus Initialisierung, Konzept, praktischer Umsetzung und der Einführung.
-- Die Lernjournale sind ebenfalls hier abgelegt.
+---
+
+### Mitwirkende:
+> - Tiziano Corbetti
+> - Franziska Tobler
+> - Tibor Blasko
+
+---
+
+### Beschreibung:
+> - Das GitHub-Repository zum Projektauftrag der Moodle-Migration.
+> - Der Inhalt besteht aus Initialisierung, Konzept, praktischer Umsetzung und der Einführung.
+> - Die Lernjournale sind ebenfalls hier abgelegt.
 
 ---
 
