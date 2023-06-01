@@ -28,9 +28,9 @@
 > - [Files](/Files)
 > - [README.md](/README.md)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=EpicAlpaca55)](https://github.com/yushi1007)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=EpicAlpaca55)](https://github.com/EpicAlpaca55/Projekt_Docker)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EpicAlpaca55&layout=donut)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EpicAlpaca55&layout=donut)](https://github.com/EpicAlpaca55/Projekt_Docker)
 
 ---
 
