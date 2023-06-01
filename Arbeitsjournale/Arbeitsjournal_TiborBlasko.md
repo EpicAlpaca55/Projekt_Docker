@@ -80,3 +80,19 @@ Leider konnte ich den Dump nicht mehr testen.
 |---|---|
 |Erstellung des Dump|Dump wurde noch nicht getestet.|
 ---
+Mittwoch 31.05.2023</br>
+Zeitaufwand: 3 Lektionen.</br>
+> Der Dump selbst scheint funktioniert zu haben.
+> Zumindest habe ich entsprechende Rückmeldung erhalten.
+> Gleichzeitig habe ich den Dump gleich noch in der Dokumentation erläutert.
+> Nebst dessen habe ich das Glossar nachgeführt.
+> Nachdem diese Arbeiten fertig waren, habe ich mich dem README.md File gewidmet.
+> Nun sieht es optisch viel ansprechender aus als vorhin.
+---
+|Erfolge|Misserfolge|
+|---|---|
+|Dump Test Abnahme.|-|
+|Dokumentation für Dump erstellt.|-|
+|Glossar nachgeführt.|-|
+|README überarbeitet.|-|
+---
