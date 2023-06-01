@@ -27,6 +27,8 @@
 > - [Dokumente](/Dokumente)
 > - [Files](/Files)
 > - [README.md](/README.md)
+> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EpicAlpaca55&exclude_repo=GBS_Aufgaben,M169,MiniProjekt-Docker,m169p2&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
