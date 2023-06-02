@@ -2,17 +2,28 @@
 
 ---
 
+### Autor und Erstellungsdatum:
+
 <img src="https://cdn-icons-png.flaticon.com/128/1995/1995562.png" style="width: 50px; height: 50px;">
 
-# Autor:
 > - Tibor Blasko
 > - 01.03.2023
 
 ---
 
-<img src="https://cdn-icons-png.flaticon.com/128/3602/3602036.png" style="width: 50px; height: 50px;">
+### Module:
+
+<img src="https://cdn-icons-png.flaticon.com/128/927/927883.png" style="width: 50px; height: 50px;">
+
+> - M158
+> - M169
+
+---
 
 # Inhaltsverzeichnis:
+
+<img src="https://cdn-icons-png.flaticon.com/128/3602/3602036.png" style="width: 50px; height: 50px;">
+
 > - [Mittwoch 01.03.2023](#mittwoch-01032023)
 > - [Mittwoch 08.03.2023](#mittwoch-08032023)
 > - [Samstag 11.03.2023](#samstag-11032023)
@@ -78,7 +89,7 @@ Zeitaufwand: 2 Lektionen.
 Zeitaufwand: 2 Lektionen.
 > Das Bewertungsdokument wurde nochmals angepasst. In unserem Fall bliebt die Note genau gleich. Zu Verbessern sind das Glossar und die Arbeitsjournale. Bei mir und bei einem weiteren Gruppenmitglied fehlten die Erfolge und Misserfolge. Zudem gibt es noch Luft nach oben mit der Optik. Das habe ich angepasst. Beim Glossar werden wir in Zukunft die Wörter noch erklären.
 
-|Erfolge|Misserfolge|
+| <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
 |---|---|
 |Die Note bliebt bei einer 5.2.|Glossar und Arbeitsjournal waren nicht optimal und werden in Zukunft besser gemacht.|
 
@@ -88,7 +99,7 @@ Zeitaufwand: 2 Lektionen.
 Zeitaufwand: 1 Stunde.
 > Für das Proof Of Concept gab es keine Vorlage vom Unterrichtsstoff her, weswegen mich die anderen Gruppenmitglieder darum gebeten haben eine Vorlage im Internet zu suchen, jedoch hatte ich keinen Erfolg bei der Suche. Die Vorlagen waren meist zu komplex und zu lang für unsere Zwecke. Es gab wenige brauchbare Vorlagen, jedoch waren diese von Seiten herunterzuladen, die eine Registrierung mit Zahlungsmittel verlangten. Daher entschieden wir uns das Proof Of Concept gleich selbst zu erstellen. Zudem fehlten noch die Konfigurationsmerkmale. Schwierig hierbei war zu bestimmen, wie detailliert diese zu beschreiben sind. Da wir bereits eine komplexe tabellarische Liste an Anforderungen bei der Initialisierung erstellt haben, entschied ich mich dazu die Systemanforderungen sehr konkret zu beschreiben. Beispielsweise "Moodle muss auf der Version 4.1.2+ installiert werden".
 
-|Erfolge|Misserfolge|
+| <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
 |---|---|
 |Konkrete Deklarierung der Konfigurationsmerkmale.|Keine geeignete Vorlage für das POC im Internet gefunden.|
 
@@ -101,7 +112,7 @@ Zeitaufwand: 2 Lektionen.
 > Zudem muss ich das Dump-Skript dann so anpassen, dass der Datenbank-User ebenfalls neu erstellt wird.
 > Ich habe damit jedoch noch nicht begonnen, sondern zuerst die notwendigen Dokumente erstellt und die Präsentation vorbereitet.
 
-|Erfolge|Misserfolge|
+| <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
 |---|---|
 |Erfolgreiche Erstellung der Dokumente.|Nicht mehr dazugekommen die Datenbank zu exportieren.|
 
@@ -116,7 +127,7 @@ Zeitaufwand: 3 Lektionen.
 > Im Dump musste ich also den User noch ergänzen.
 > Leider konnte ich den Dump nicht mehr testen.
 
-|Erfolge|Misserfolge|
+| <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
 |---|---|
 |Erstellung des Dump|Dump wurde noch nicht getestet.|
 
@@ -131,7 +142,7 @@ Zeitaufwand: 3 Lektionen.
 > Nachdem diese Arbeiten fertig waren, habe ich mich dem README.md File gewidmet.
 > Nun sieht es optisch viel ansprechender aus als vorhin.
 
-|Erfolge|Misserfolge|
+| <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
 |---|---|
 |Dump Test Abnahme.|-|
 |Dokumentation für Dump erstellt.|-|
@@ -148,7 +159,7 @@ Zeitaufwand: 3 Stunden.
 > Später haben wir gesehen, dass die Tabellen samt Daten importiert wurden, jedoch fehlt noch eine weitere PHP-Extension oder sonst etwas.
 > Der Erfolg wird jedenfalls dadurch verhindert bis jetzt.
 
-|Erfolge|Misserfolge|
+| <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
 |---|---|
 |Dump importieren.|Moodle ist immer noch weiss.|
 
