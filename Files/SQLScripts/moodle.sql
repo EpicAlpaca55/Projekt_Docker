@@ -20,7 +20,6 @@
 --
 
 USE moodle;
-CREATE USER 'debian-sys-maint'@'%' IDENTIFIED BY 'vaIdfgRPSXzKbPPd';
 GRANT ALL PRIVILEGES ON moodle TO 'debian-sys-maint'@'localhost';
 
 DROP TABLE IF EXISTS `mdl_analytics_indicator_calc`;
