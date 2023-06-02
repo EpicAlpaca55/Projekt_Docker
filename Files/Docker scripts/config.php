@@ -1,3 +1,5 @@
+nicht in gebrauch
+
 <?php  // Moodle configuration file
 
 unset($CFG);
@@ -6,7 +8,7 @@ $CFG = new stdClass();
 
 $CFG->dbtype    = 'mysqli';
 $CFG->dblibrary = 'native';
-$CFG->dbhost    = '172.18.0.2';
+$CFG->dbhost    = 'moodledb';
 $CFG->dbname    = 'moodle';
 $CFG->dbuser    = 'debian-sys-maint';
 $CFG->dbpass    = 'vaIdfgRPSXzKbPPd';

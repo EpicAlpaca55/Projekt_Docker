@@ -1,19 +1,44 @@
-version: '3.9'
+version: '3.8'
 services:
-  apache:
-    restart: always
-    build: .
-    ports:
-    - '8080:80'
-    volumes:
-    - /home/vmadmin/moodle_data:/var/www/html
-
   moodledb:
-    image: 'mysql:latest'
-    restart: always
+    image: mariadb
     volumes:
-      - /home/vmadmin/mysql-dump:/docker-entrypoint-initdb.d
-    ports:
-      - 3306:3306
+      - mariadb-data:/var/lib/mysql
+    networks:
+      - moodle-network
     environment:
-      MYSQL_RANDOM_ROOT_PASSWORD: yes
+      - MYSQL_RANDOM_ROOT_PASSWORD=true
+      - MYSQL_USER=debian-sys-maint
+      - MYSQL_PASSWORD=vaIdfgRPSXzKbPPd
+      - MYSQL_DATABASE=moodle
+
+  moodle:
+    image: bitnami/moodle:4.1
+    ports:
+      - 8080:8080
+    volumes:
+      - ./moodle:/bitnami/moodledata
+    networks:
+      - moodle-network
+    environment:
+      - MOODLE_DATABASE_HOST=moodledb
+      - MOODLE_DATABASE_USER=debian-sys-maint
+      - MOODLE_DATABASE_PASSWORD=vaIdfgRPSXzKbPPd
+      - MOODLE_DATABASE_NAME=moodle
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    ports:
+      - 8081:80
+    environment:
+      - PMA_ARBITRARY=1
+      - PMA_HOST=moodledb
+    networks:
+      - moodle-network
+
+volumes:
+  mariadb-data:
+  moodle-data:
+
+networks:
+  moodle-network:
