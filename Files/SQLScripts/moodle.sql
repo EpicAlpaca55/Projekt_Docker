@@ -18,14 +18,10 @@
 --
 -- Table structure for table `mdl_analytics_indicator_calc`
 --
-CREATE DATABASE moodle;
+
 USE moodle;
-DROP USER IF EXISTS 'debian-sys-maint'@'localhost';
-DROP USER IF EXISTS 'debian-sys-maint'@'%';
-CREATE USER 'debian-sys-maint'@'localhost' IDENTIFIED BY 'vaIdfgRPSXzKbPPd';
 CREATE USER 'debian-sys-maint'@'%' IDENTIFIED BY 'vaIdfgRPSXzKbPPd';
 GRANT ALL PRIVILEGES ON moodle TO 'debian-sys-maint'@'localhost';
-GRANT ALL PRIVILEGES ON moodle TO 'debian-sys-maint'@'%';
 
 DROP TABLE IF EXISTS `mdl_analytics_indicator_calc`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
