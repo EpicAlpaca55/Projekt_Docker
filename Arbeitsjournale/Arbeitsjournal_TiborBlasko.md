@@ -96,3 +96,15 @@ Zeitaufwand: 3 Lektionen.</br>
 |Glossar nachgeführt.|-|
 |README überarbeitet.|-|
 ---
+Freitag 02.06.2023</br>
+Zeitaufwand: 3 Stunden.</br>
+> Da vieles nicht funktioniert hat, bzw. die Seite immer noch weiss blieb, haben Tiziano und ich uns an die Arbeit gemacht.
+> Als erstes haben wir überprüft, ob der Dump überhaupt in den Container geladen wird.
+> Dabei haben wir herausgefunen, dass der Container oder das System Zugriff auf die Datei noch benötigt.
+> Später haben wir gesehen, dass die Tabellen samt Daten importiert wurden, jedoch fehlt noch eine weitere PHP-Extension oder sonst etwas.
+> Der Erfolg wird jedenfalls dadurch verhindert bis jetzt.
+---
+|Erfolge|Misserfolge|
+|---|---|
+|Dump importieren.|Moodle ist immer noch weiss.|
+---
