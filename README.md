@@ -1,4 +1,4 @@
-![grey_banner](https://github.com/EpicAlpaca55/Projekt_Docker/assets/98404509/cd24df1c-b07a-499e-96d8-9211d034a145)
+![techforce](https://github.com/EpicAlpaca55/Projekt_Docker/assets/98404509/7341f0fc-7997-47b6-86a0-5198ad30c0b9)
 
 ---
 
