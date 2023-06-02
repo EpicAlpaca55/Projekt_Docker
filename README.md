@@ -1,27 +1,46 @@
-![new_banner](https://github.com/EpicAlpaca55/Projekt_Docker/assets/98404509/66386d22-9c9c-41e1-b038-b8bcd93b2ae2)
+![grey_banner](https://github.com/EpicAlpaca55/Projekt_Docker/assets/98404509/cd24df1c-b07a-499e-96d8-9211d034a145)
 
-#### Tiziano Corbetti, Franziska Tobler, Tibor Blasko
 ---
 
-> - Datum: 04.06.2023
-> - Modul: M158, M169
-### Moodle und dazuhehörige Komponenten als Microservices in Container migrieren</br>
+# Moodle und dazuhehörige Komponenten als Microservices in Container migrieren
 
-- Das GitHub-Repository zum Projektauftrag der Moodle-Migration.
-- Der Inhalt besteht aus Initialisierung, Konzept, praktischer Umsetzung und der Einführung.
-- Die Lernjournale sind ebenfalls hier abgelegt.
+<img src="https://cdn-icons-png.flaticon.com/128/3715/3715109.png" style="width: 50px; height: 50px;">
+
+> - Datum: 04.06.2023
+> - Module: M158, M169
+
+---
+
+### Mitwirkende:
+
+<img src="https://cdn-icons-png.flaticon.com/128/5371/5371017.png" style="width: 50px; height: 50px;">
+
+> - Tiziano Corbetti
+> - Franziska Tobler
+> - Tibor Blasko
+
+---
+
+### Beschreibung:
+
+<img src="https://cdn-icons-png.flaticon.com/128/7032/7032407.png" style="width: 50px; height: 50px;">
+
+> - Das GitHub-Repository zum Projektauftrag der Moodle-Migration.
+> - Der Inhalt besteht aus Initialisierung, Konzept, praktischer Umsetzung und der Einführung.
+> - Die Lernjournale sind ebenfalls hier abgelegt.
 
 ---
 
 ### Inhalt:</br>
+
+<img src="https://cdn-icons-png.flaticon.com/128/8164/8164154.png" style="width: 50px; height: 50px;">
+
 > - [Arbeitsjournale](/Arbeitsjournale)
 > - [Dokumente](/Dokumente)
 > - [Files](/Files)
 > - [README.md](/README.md)
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=EpicAlpaca55)](https://github.com/yushi1007)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EpicAlpaca55&layout=donut)](https://github.com/yushi1007)
+> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EpicAlpaca55&exclude_repo=GBS_Aufgaben,M169,MiniProjekt-Docker,m169p2&theme=transparent)
 
 ---
 
