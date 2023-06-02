@@ -17,10 +17,6 @@
 
 --
 -- Table structure for table `mdl_analytics_indicator_calc`
---
-
-USE moodle;
-GRANT ALL PRIVILEGES ON moodle TO 'debian-sys-maint'@'localhost';
 
 DROP TABLE IF EXISTS `mdl_analytics_indicator_calc`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
@@ -14105,6 +14101,28 @@ CREATE TABLE `mdl_workshopform_rubric_levels` (
   KEY `mdl_workrubrleve_dim_ix` (`dimensionid`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci ROW_FORMAT=COMPRESSED COMMENT='The definition of rubric rating scales';
 /*!40101 SET character_set_client = @saved_cs_client */;
+
+
+-- Delete unused Tables
+SELECT GROUP_CONCAT(table_schema, '.', table_name) INTO @tables
+FROM information_schema.tables
+WHERE table_schema = 'moodle' AND table_name LIKE 'mdl_tool_brickfield%';
+
+SET @tables = CONCAT('DROP TABLE IF EXISTS ', @tables);
+PREPARE stmt FROM @tables;
+EXECUTE stmt;
+DEALLOCATE PREPARE stmt;
+
+SELECT GROUP_CONCAT(table_schema, '.', table_name) INTO @tables
+FROM information_schema.tables
+WHERE table_schema = 'moodle' AND table_name LIKE 'mdl_bigbluebutton%';
+
+SET @tables = CONCAT('DROP TABLE IF EXISTS ', @tables);
+PREPARE stmt FROM @tables;
+EXECUTE stmt;
+DEALLOCATE PREPARE stmt;
+
+DROP TABLE IF EXISTS `mdl_tiny_autosave`;
 
 --
 -- Dumping data for table `mdl_workshopform_rubric_levels`
