@@ -15,7 +15,7 @@ services:
   moodle:
     image: bitnami/moodle:4.1
     ports:
-      - 8080:8080
+      - 80:8080
     volumes:
       - ./moodle:/bitnami/moodledata
     networks:
@@ -29,9 +29,8 @@ services:
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
     ports:
-      - 8081:80
+      - 88:80
     environment:
-      - PMA_ARBITRARY=1
       - PMA_HOST=moodledb
     networks:
       - moodle-network
