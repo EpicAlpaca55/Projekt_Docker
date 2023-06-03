@@ -6,8 +6,8 @@
 
 <img src="https://cdn-icons-png.flaticon.com/128/3715/3715109.png" style="width: 50px; height: 50px;">
 
-> - Datum:      04.06.2023
-> - Module:     M158, M169
+> - Datum:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04.06.2023
+> - Module:&nbsp;&nbsp;&nbsp;&nbsp;M158, M169
 
 ---
 
