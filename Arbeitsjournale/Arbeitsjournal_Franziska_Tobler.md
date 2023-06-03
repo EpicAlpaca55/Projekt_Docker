@@ -70,7 +70,7 @@ Heute haben wir die erste Note zurückbekommen.
 
 Fehler waren die Terminplanung, das war tatsächlich so. Ich habe einfach vergessen, dass wir den Termin noch vereinbaren müssen. Deshalb finde ich die Bewertung fair.
 
-# 05.04.2022
+# 05.04.2023
 
 Zeit:
 
@@ -90,7 +90,7 @@ Misserfolge:
 
 Ich habe die Aufgabe bei diesem Teil des Projekts nicht verstanden. Aber ich weiss nicht ob das meine Schuld ist.
 
-# 16.04.2022
+# 16.04.2023
 
 Zeit:
 
@@ -111,3 +111,69 @@ Proof of Concept erstellt und alles abgegeben.
 Misserfolge:
 
 Import der kompletten Datenbank hat nicht direkt funktioniert. Ich habe aber eine gute andere Lösung gefunden.
+
+# 17.05.2023
+
+Zeit:
+
+90 Minuten
+
+Inhalt:
+
+Heute haben wir wieder mit dem Projekt angefangen, jetzt geht es um die Umsetzung. 
+Wie bei jedem Teil beginnt es wieder mit dem durchlesen von Anfordeungen. Zusätzlich zur Umsetztung müssen wir auch jetzt schon mit dem Abnahmetest und dem Einführungskonzept beginnen, da wir alles am gleichen Tag abgeben müssen. Auch hier habe ich alle Anforderungen durchgelesen.
+
+Erfolge:
+
+Erste kleine Erfolge beim erstellen der Dokumente für Docker. 
+
+Misserfolge:
+
+Noch nichts, habe erst angefangen die Dokumente vorzubereiten noch keine Tests gemacht.
+
+# 20/21.05.2023
+
+Zeit:
+
+8 Stunden
+
+Inhalt:
+
+Da ich hauptsächlich für die Umsetzung zuständig bin, habe ich heute die ersten Tests mit Docker durchgeführt.
+Momentan versuche ich die Umgebung auf der VM in Docker Container zu übertragen einfach ansetlle von Ubuntu mit apache2 direkt in einen Webserver mit dem httpd Image und natürlich eine separate Datenbank.
+Ein kleines Problem ist dabei aufgetaucht httpd kann kein PHP. Deshalb musst ich den Code abändern, das php Dateien dargestellt werden können. Was das aber hervorgebracht hat war eine grosse menge an Fehlern von moodle. Ich musste schlussendlich die config.php Datei anpassen um die Fehler genauer anzuzeigen. Diese Fehler zu beheben habe ich das ganze Wochenende gemacht.
+
+Erfolge:
+
+Ich habe eine Antwort von Moodle erhalten, anders gesagt die Dateien können gelesen werden und es scheitert nicht am Webserver.
+
+Misserfolge:
+
+Ganz viele Fehler die nur sehr aufwendig behoben werden konnten. Anpassen von Pfaden, ändern von Berechtigungen und ganz viel neustarten und hoffen das es nun funktioniert oder ein anderer Fehler angezeigt wird.
+
+# 24.05.2023
+
+Zeit:
+
+180 Minuten
+
+Inhalt:
+
+Am Testen und entwickeln der Dateien weitergemacht. Sehr viel Fehlerbeheben und ändern des Basisimages. 
+Von httpd zu nginx zu php:apache zu Ubuntu. Dabei habe ich etwas cooles herausgefunden, man kann Dockerfiles direkt in einem docker-compose File bauen. Anstelle von image: benutz man einfach build: mit dem Pfad wo das Dockerfile abgelegt ist. das war meistens direkt im gleichen Verzeichnis also kann man einen Punkt (.) setzen. Wenn man dann aber am Dockerfile etwas ändert muss man das erstellte Imgage zuerst wieder löschen. Das macht man am einfachtsten mit Portainer.
+
+Erfolge:
+
+Neue Technik gefunden um docker compose mit Dockerfile zu verbinden.
+
+Misserfolge:
+
+Ich konnte die Fehler nicht beheben.
+
+# 27/28.05.2023
+
+Zeit:
+
+
+
+
