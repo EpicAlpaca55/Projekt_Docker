@@ -4,7 +4,7 @@ Projekt M158
 
 Autor:
 
-Franziska Tobler
+**Franziska Tobler**
 
 ---
 
