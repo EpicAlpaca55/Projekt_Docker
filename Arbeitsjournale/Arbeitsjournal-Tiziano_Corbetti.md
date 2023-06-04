@@ -354,6 +354,6 @@ Es gibt nichts negatives, das Projekt ist jetzt eigentlich fertig.
 
 Nächste Arbeitsschritte:
 
-Weiter nach dem Zeitplan arbeiten
+Präsentation vorbereiten
 
 
