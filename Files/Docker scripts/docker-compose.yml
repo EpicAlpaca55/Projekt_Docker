@@ -2,6 +2,7 @@ version: '3.9'
 services:
   moodledb:
     image: mariadb
+    restart: always
     volumes:
       - mariadb-data:/var/lib/mysql
     networks:
@@ -14,6 +15,7 @@ services:
 
   moodle:
     image: bitnami/moodle:4.1
+    restart: always
     ports:
       - 80:8080
     volumes:
@@ -28,6 +30,7 @@ services:
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
+    restart: always
     ports:
       - 88:80
     environment:
