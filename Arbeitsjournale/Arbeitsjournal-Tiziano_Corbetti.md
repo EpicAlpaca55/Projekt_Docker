@@ -334,7 +334,7 @@ Nächste Arbeitsschritte:
 
 Weiter nach dem Zeitplan arbeiten
 
-# 03.06.2023 KW22
+# 04.06.2023 KW22
 
 Heute war ich etwa 7 Stunden am Projekt gearbeitet
 
@@ -342,7 +342,7 @@ Heute war ich etwa 7 Stunden am Projekt gearbeitet
 | --- | --- |
 | **Gesamte Zeit** | Alle Dokumente vollenden |
 
-Ich habe mich heute daran gesessen alle Dokumnente fertig zu schreiben, damit wir diese am Abend beruhigt abgeben können. ICh bekam zum glück auch unterstützung und so ging die Zeit schnell vorbei. Vorallem hat es mir gefallen als ich zuletzt die Refelxion schreiben konnte, da ich gerne über dieses Trauma reden wollte.
+Ich habe mich heute daran gesessen alle Dokumnente fertig zu schreiben, damit wir diese am Abend beruhigt abgeben können. Ich bekam zum glück auch unterstützung und so ging die Zeit schnell vorbei. Vorallem hat es mir gefallen als ich zuletzt die Reflexion schreiben konnte, da ich gerne über dieses Trauma reden wollte.
 
 **+Positive Erfahrungen**
 
