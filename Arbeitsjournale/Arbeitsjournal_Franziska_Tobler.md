@@ -141,7 +141,7 @@ Inhalt:
 
 Da ich hauptsächlich für die Umsetzung zuständig bin, habe ich heute die ersten Tests mit Docker durchgeführt.
 Momentan versuche ich die Umgebung auf der VM in Docker Container zu übertragen einfach ansetlle von Ubuntu mit apache2 direkt in einen Webserver mit dem httpd Image und natürlich eine separate Datenbank.
-Ein kleines Problem ist dabei aufgetaucht httpd kann kein PHP. Deshalb musst ich den Code abändern, das php Dateien dargestellt werden können. Was das aber hervorgebracht hat war eine grosse menge an Fehlern von moodle. Ich musste schlussendlich die config.php Datei anpassen um die Fehler genauer anzuzeigen. Diese Fehler zu beheben habe ich das ganze Wochenende gemacht.
+Ein kleines Problem ist dabei aufgetaucht httpd kann kein PHP. Deshalb musst ich den Code abändern, das php Dateien dargestellt werden können. Was das aber hervorgebracht hat war eine grosse Menge an Fehlern von moodle. Ich musste schlussendlich die config.php Datei anpassen um die Fehler genauer anzuzeigen. Diese Fehler zu beheben habe ich das ganze Wochenende gemacht.
 
 Erfolge:
 
@@ -173,6 +173,59 @@ Ich konnte die Fehler nicht beheben.
 # 27/28.05.2023
 
 Zeit:
+
+3 Stunden
+
+Inhalt:
+
+Weiter herumprobiert, habe mittlerweile auf ubuntu gewechselt und versuche es darüber. Dies hat dann aber auch nicht richtig funktioniert, die PHP version war irgendwie falsch bzw. nicht richtig. Dann habe ich auf das php:apache image gewechselt. Auch hier hatte ich immer wieder die gleichen Probleme.
+
+Erfolge:
+
+Keine
+
+Misserfolge:
+
+Sehr viele, da die schlussendliche Version nicht funktioniert hat.
+
+# 31.05.2023
+
+Zeit: 
+
+180 Minuten
+
+Inhalt:
+
+Heute konnten wir noch in der Schule weiterarbeiten. Plötzlich hat es funktionert, als ich dann das was ich gemacht habe nochmals machen wollte, nicht mehr. Ich habe beim testen so viele Befehle für Berechtigungen ausgeführt, dass ich nicht mehr wusste was ich genau gemacht habe. Nun hiess es wieder alles neu versuchen. Das Docker-Compose habe ich weiter mit php:apache gemacht, nach etwas überarbeiten war ich so weit, dass die alte Version sauber auf Docker läuft. Nun fehlt nur noch das Upgrade, aber das hat mich fertig gemacht. Alles was ich versucht habe das Moodle auf eine neuere Version zu heben hat nicht funktioniert, auch wenn in den Dateien gestanden ist, dass die Version höher ist, ist Moodle immer auf der alten Version geblieben.
+
+Erfolge:
+
+Moodle läuft auf Docker
+
+Misserfolge:
+
+Moodle lässt sich nicht upgraden
+
+# 2/3/4.06.2023
+
+Zeit:
+
+19 Stunden
+
+Inhalt:
+
+Diese 19 Stunden sind wie im Datum stehend auf drei Tage verteilt. Am Freitag habe ich bemerkt, dass es nicht funktioniert. Deshalb habe ich wieder alles von neu an versucht zu schreiben. Diesmal mit dem Image von Bitnami. Hier hatte ich von Anfang an schon mehr Erfolge. Ich muss zugeben, dass ich mir noch Hilfe von einem Ausbildungsverantwortlichen geholt habe, der mir sagte, dass die neuste Version von Moodle nur mit PHP Version 8.1 wirklich sauber funktioniert. Das war ein weiterer Grund für den Wechsel auf Bitnami. 
+Für Bitnami habe ich eine gute Anleitung gefunden und darauf habe ich dann mein Docker Compose basiert. Das hatt dann anfangs etwas gehapert aber nach etwas weiterer Hilfe von einem Klassenkamaraden hat es dann endlich funktioniert. Und jetzt richtig. Die Version stimmt, die Daten sind alle da. Dann war es auch schon sehr spät am Abend und da es jetzt funktioniert kann ich die Dockumentation auch noch am Samstag schreiben.
+Am Samstag habe ich auch genau das gemacht. Das dokumentieren lief gut, da ich eigentlich nur das beschreiben muss was ich gemacht habe. Das hat dann aber trozdem etwas länger gedauert als ich gedacht habe.
+Sonntag, heute ist Abgabe. Das was noch fehlt ist meine Reflexion und ein kleiner Teil der Dokumentation der Migration. Die habe ich aber schnell geschrieben.
+
+Erfolge:
+
+Ein funktionierendes Vorgehen für die Migration und alle Dokumente sind früher als erwartet fertig.
+
+Misserfolge:
+
+Schon wieder ein komplettes überschreiben der Daten. Das hat mich schon etwas frustriert.
 
 
 
