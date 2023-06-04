@@ -35,6 +35,7 @@
 > - [Mittwoch 24.05.2023](#mittwoch-24052023)
 > - [Mittwoch 31.05.2023](#mittwoch-31052023)
 > - [Freitag 02.06.2023](#freitag-02062023)
+> - [Sonntag 04.06.2023](#sonntag-04062023)
 
 ---
 
@@ -162,5 +163,19 @@ Zeitaufwand: 3 Stunden.
 | <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
 |---|---|
 |Dump importieren.|Moodle ist immer noch weiss.|
+
+---
+
+### Sonntag 04.06.2023
+Zeitaufwand: 2 Stunden.
+> Ich hatte noch Zeit, um die Testfälle aus dem Testkonzept zu dokumentieren.
+> Zuerst habe ich vergessen die alte Moodle Seite auf den Port 8080 umzuschreiben.
+> Nach dieser Anpassung und dem Datenbankenimport hat Moodle von alleine aktualisiert.
+> Alle Tests haben bestanden.
+> Anschliessend musste ich noch das Glossar nachführen, was sehr mühsam war.
+
+| <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
+|---|---|
+|Alle Tests erfolgreich.|-|
 
 ---
