@@ -51,7 +51,7 @@ Zeitaufwand: 2 Lektionen.
 
 | <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
 |---|---|
-|||
+|-|-|
 
 ---
 
@@ -64,7 +64,7 @@ Zeitaufwand: 2 Lektionen.
 
 | <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
 |---|---|
-|||
+|-|-|
 
 ---
 
@@ -74,7 +74,7 @@ Zeitaufwand: 2 Stunden.
 
 | <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
 |---|---|
-|||
+|-|-|
 
 ---
 
@@ -87,7 +87,7 @@ Zeitaufwand: 30 Mintuen.
 
 | <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
 |---|---|
-|||
+|-|-|
 
 ---
 
@@ -102,7 +102,7 @@ Zeitaufwand: 2 Lektionen.
 
 | <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
 |---|---|
-|||
+|-|-|
 
 ---
 
