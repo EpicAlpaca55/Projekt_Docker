@@ -179,3 +179,47 @@ Ich habe Panik das irgendetwas an diesem Projekt falsch lauft und bin dadurch se
 Nächste Arbeitsschritte:
 
 Weiter nach dem Zeitplan arbeiten
+
+# 24.05.2023 KW21
+
+Heute hatten wir alle Lektionen Zeit für das Projekt
+
+| **Zeit** | **Tätigkeit** |
+| --- | --- |
+| **Gesamte Lektion** | An Auftrag arbeiten |
+
+Heute habe ich Gruppenleiter gespielt. Ich habe allen aus meiner Gruppe genau Ihre Aufträge verteilt und habe für mich selber ein Word gemacht wo ich unseren momentanen Stand aufgeschrieben habe. Danach habe ich mich einmal ans forschen gesetz, damit ich gut über das Thema Docker informiert bin.
+
+**+Positive Erfahrungen**
+
+Ich denke wir kamen heute gut voran. Die Projekt arbeit war heute auch einmal sehr interessant.
+
+**-Negative Erfahrungen**
+
+Irgendwie ist es für mich nomentan schwer Arbeit zu finden.
+
+Nächste Arbeitsschritte:
+
+Weiter nach dem Zeitplan arbeiten
+
+# 26.05.2023 KW21
+
+Heute habe ich noch ein wenig Zeitaufwan ins Projekt gesteckt. Ich glaube es waren zirka 30 Minuten
+
+| **Zeit** | **Tätigkeit** |
+| --- | --- |
+| **Gesamte Zeit** | An Auftrag arbeiten |
+
+Ich habe lediglich die Historie eingefügt und danach nach einem Doku-beispiel einer IPA aus unserem Betrieb die Dokumentation formatiert.
+
+**+Positive Erfahrungen**
+
+Die Dokumentation sieht mittlerweile sehr professionell aus.
+
+**-Negative Erfahrungen**
+
+Heute gibt es nichts negatives
+
+Nächste Arbeitsschritte:
+
+Weiter nach dem Zeitplan arbeiten
