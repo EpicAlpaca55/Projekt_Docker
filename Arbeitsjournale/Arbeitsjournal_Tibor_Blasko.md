@@ -49,6 +49,10 @@ Zeitaufwand: 2 Lektionen.
 > Die Moodle Version ist in den Admin-Einstellungen zu finden.
 > Wir haben festgestellt, dass die Moodle Version für die Migration in einen Container einem Update unterzogen werden muss.
 
+| <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
+|---|---|
+|||
+
 ---
 
 ### Mittwoch 08.03.2023
@@ -58,11 +62,19 @@ Zeitaufwand: 2 Lektionen.
 > Der Bezug basiert hierbei auf den obligatorischen Schulbesuch bei der Lehre als Informatiker.
 > Zudem haben wir dieses Repository erstellt, in dem wir unsere Arbeitsjournale speichern und Dateien verwalten.
 
+| <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
+|---|---|
+|||
+
 ---
 
 ### Samstag 11.03.2023
 Zeitaufwand: 2 Stunden.
 > Da morgen bereits die Abgabe der Initialisierung stattfinden soll, haben wir das Lastenheft und die Testkonzepte fertiggestellt. Meine Gruppenmitglieder haben bereits vor mir angefangen. Als ich mich dann auch angeschlossen habe, durfte ich die letzten Testfälle beschreiben und Verfeinerungen treffen. Schwierig war bei den Testfällen die Testvoraussetzung nicht mit dem zu erwartendem Resultat zu verwechseln.
+
+| <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
+|---|---|
+|||
 
 ---
 
@@ -72,6 +84,10 @@ Zeitaufwand: 30 Mintuen.
 > Die Note 5.2 entspricht einer fast schon sehr guten Bewertung und basiert darauf einen Termin nicht vorzeitig geplant zu haben.
 > Entsprechend war ein Punkt somit nur zum Teil erfüllt, nebst dem ein oder anderen Punkt, der auch nicht vollständig erfüllt ist.
 > Die Benotung ist somit in Augen unserer Gruppe fair.
+
+| <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
+|---|---|
+|||
 
 ---
 
@@ -83,6 +99,10 @@ Zeitaufwand: 2 Lektionen.
 > Ich habe bereits ein Shellskript geschrieben, welches ein paar Aufgaben abnehmen soll. Es handelt sich aber lediglich um einen Entwurf.
 > Das Skript, das wir später verwenden werden, wird etwas anders aussehen. Zudem kommen YAML Dateien dazu.
 > Für die Migration der Datenbank werden wir vermutlich einen SQL Dump verwenden. Alles weitere folgt
+
+| <img src="https://cdn-icons-png.flaticon.com/128/7518/7518748.png" style="width: 25px; height: 25px;"> Erfolge| <img src="https://cdn-icons-png.flaticon.com/128/753/753345.png" style="width: 25px; height: 25px;"> Misserfolge|
+|---|---|
+|||
 
 ---
 
