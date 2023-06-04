@@ -254,4 +254,4 @@
 
 <img src="https://cdn-icons-png.flaticon.com/128/656/656794.png" style="width: 20px; height: 20px;"> 
 
-> Quelle für coole Icons: [flaticon](https://www.flaticon.com/)
+> Quelle für coole Icons: [flaticon.com](https://www.flaticon.com/)
