@@ -346,7 +346,7 @@ Ich habe mich heute daran gesessen alle Dokumnente fertig zu schreiben, damit wi
 
 **+Positive Erfahrungen**
 
-Das Projekt funktioniert und alle Dokumente sind fertig. Also Sprich die Abgabe fand statt. 
+Das Projekt funktioniert und alle Dokumente sind fertig. 
 
 **-Negative Erfahrungen**
 
