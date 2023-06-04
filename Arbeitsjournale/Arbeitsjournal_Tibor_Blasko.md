@@ -43,6 +43,8 @@
 
 ### Mittwoch 01.03.2023
 
+<img src="https://cdn-icons-png.flaticon.com/128/6970/6970224.png" style="width: 50px; height: 50px;">
+
 <img src="https://cdn-icons-png.flaticon.com/128/1584/1584942.png" style="width: 20px; height: 20px;"> Zeitaufwand: 2 Lektionen.
 
 > Der erste Schritt war es das Lastenheft zu füllen.
@@ -61,6 +63,8 @@
 
 ### Mittwoch 08.03.2023
 
+<img src="https://cdn-icons-png.flaticon.com/128/6970/6970224.png" style="width: 50px; height: 50px;">
+
 <img src="https://cdn-icons-png.flaticon.com/128/1584/1584942.png" style="width: 20px; height: 20px;"> Zeitaufwand: 2 Lektionen.
 
 > Mit dem Auftraggeber, bzw. unserem Lehrer, haben wir diverse Punkte geklärt, wie die Moodle Version, MYSQL Version, die Basis des Containers (On-Prem, Cloud?) oder was im Projektbezug beschriebene werden muss.
@@ -76,6 +80,8 @@
 
 ### Samstag 11.03.2023
 
+<img src="https://cdn-icons-png.flaticon.com/128/6970/6970224.png" style="width: 50px; height: 50px;">
+
 <img src="https://cdn-icons-png.flaticon.com/128/1584/1584942.png" style="width: 20px; height: 20px;"> Zeitaufwand: 2 Stunden.
 
 > Da morgen bereits die Abgabe der Initialisierung stattfinden soll, haben wir das Lastenheft und die Testkonzepte fertiggestellt. Meine Gruppenmitglieder haben bereits vor mir angefangen. Als ich mich dann auch angeschlossen habe, durfte ich die letzten Testfälle beschreiben und Verfeinerungen treffen. Schwierig war bei den Testfällen die Testvoraussetzung nicht mit dem zu erwartendem Resultat zu verwechseln.
@@ -87,6 +93,8 @@
 ---
 
 ### Mittwoch 22.03.2023
+
+<img src="https://cdn-icons-png.flaticon.com/128/6970/6970224.png" style="width: 50px; height: 50px;">
 
 <img src="https://cdn-icons-png.flaticon.com/128/1584/1584942.png" style="width: 20px; height: 20px;"> Zeitaufwand: 30 Mintuen.
 
@@ -102,6 +110,8 @@
 ---
 
 ### Mittwoch 29.03.2023
+
+<img src="https://cdn-icons-png.flaticon.com/128/6970/6970224.png" style="width: 50px; height: 50px;">
 
 <img src="https://cdn-icons-png.flaticon.com/128/1584/1584942.png" style="width: 20px; height: 20px;"> Zeitaufwand: 2 Lektionen.
 
@@ -120,6 +130,8 @@
 
 ### Mittwoch 05.04.2023
 
+<img src="https://cdn-icons-png.flaticon.com/128/6970/6970224.png" style="width: 50px; height: 50px;">
+
 <img src="https://cdn-icons-png.flaticon.com/128/1584/1584942.png" style="width: 20px; height: 20px;"> Zeitaufwand: 2 Lektionen.
 
 > Das Bewertungsdokument wurde nochmals angepasst. In unserem Fall bliebt die Note genau gleich. Zu Verbessern sind das Glossar und die Arbeitsjournale. Bei mir und bei einem weiteren Gruppenmitglied fehlten die Erfolge und Misserfolge. Zudem gibt es noch Luft nach oben mit der Optik. Das habe ich angepasst. Beim Glossar werden wir in Zukunft die Wörter noch erklären.
@@ -132,6 +144,8 @@
 
 ### Sonntag 16.04.2023
 
+<img src="https://cdn-icons-png.flaticon.com/128/6970/6970224.png" style="width: 50px; height: 50px;">
+
 <img src="https://cdn-icons-png.flaticon.com/128/1584/1584942.png" style="width: 20px; height: 20px;"> Zeitaufwand: 1 Stunde.
 
 > Für das Proof Of Concept gab es keine Vorlage vom Unterrichtsstoff her, weswegen mich die anderen Gruppenmitglieder darum gebeten haben eine Vorlage im Internet zu suchen, jedoch hatte ich keinen Erfolg bei der Suche. Die Vorlagen waren meist zu komplex und zu lang für unsere Zwecke. Es gab wenige brauchbare Vorlagen, jedoch waren diese von Seiten herunterzuladen, die eine Registrierung mit Zahlungsmittel verlangten. Daher entschieden wir uns das Proof Of Concept gleich selbst zu erstellen. Zudem fehlten noch die Konfigurationsmerkmale. Schwierig hierbei war zu bestimmen, wie detailliert diese zu beschreiben sind. Da wir bereits eine komplexe tabellarische Liste an Anforderungen bei der Initialisierung erstellt haben, entschied ich mich dazu die Systemanforderungen sehr konkret zu beschreiben. Beispielsweise "Moodle muss auf der Version 4.1.2+ installiert werden".
@@ -143,6 +157,8 @@
 ---
 
 ### Mittwoch 17.05.2023
+
+<img src="https://cdn-icons-png.flaticon.com/128/6970/6970224.png" style="width: 50px; height: 50px;">
 
 <img src="https://cdn-icons-png.flaticon.com/128/1584/1584942.png" style="width: 20px; height: 20px;"> Zeitaufwand: 2 Lektionen.
 
@@ -158,6 +174,8 @@
 ---
 
 ### Mittwoch 24.05.2023
+
+<img src="https://cdn-icons-png.flaticon.com/128/6970/6970224.png" style="width: 50px; height: 50px;">
 
 <img src="https://cdn-icons-png.flaticon.com/128/1584/1584942.png" style="width: 20px; height: 20px;"> Zeitaufwand: 3 Lektionen.
 
@@ -175,6 +193,8 @@
 ---
 
 ### Mittwoch 31.05.2023
+
+<img src="https://cdn-icons-png.flaticon.com/128/6970/6970224.png" style="width: 50px; height: 50px;">
 
 <img src="https://cdn-icons-png.flaticon.com/128/1584/1584942.png" style="width: 20px; height: 20px;"> Zeitaufwand: 3 Lektionen.
 
@@ -196,6 +216,8 @@
 
 ### Freitag 02.06.2023
 
+<img src="https://cdn-icons-png.flaticon.com/128/6970/6970224.png" style="width: 50px; height: 50px;">
+
 <img src="https://cdn-icons-png.flaticon.com/128/1584/1584942.png" style="width: 20px; height: 20px;"> Zeitaufwand: 3 Stunden.
 
 > Da vieles nicht funktioniert hat, bzw. die Seite immer noch weiss blieb, haben Tiziano und ich uns an die Arbeit gemacht.
@@ -212,6 +234,8 @@
 
 ### Sonntag 04.06.2023
 
+<img src="https://cdn-icons-png.flaticon.com/128/6970/6970224.png" style="width: 50px; height: 50px;">
+
 <img src="https://cdn-icons-png.flaticon.com/128/1584/1584942.png" style="width: 20px; height: 20px;"> Zeitaufwand: 2 Stunden.
 
 > Ich hatte noch Zeit, um die Testfälle aus dem Testkonzept zu dokumentieren.
@@ -225,3 +249,9 @@
 |Alle Tests erfolgreich.|-|
 
 ---
+
+## Info
+
+<img src="https://cdn-icons-png.flaticon.com/128/656/656794.png" style="width: 25px; height: 25px;">
+
+> Quelle für coole Icons: [flaticon](https://www.flaticon.com/)
