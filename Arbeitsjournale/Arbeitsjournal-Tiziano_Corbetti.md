@@ -336,7 +336,7 @@ Weiter nach dem Zeitplan arbeiten
 
 # 04.06.2023 KW22
 
-Heute war ich etwa 7 Stunden am Projekt gearbeitet
+Heute habe ich etwa 7 Stunden am Projekt gearbeitet.
 
 | **Zeit** | **Tätigkeit** |
 | --- | --- |
