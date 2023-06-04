@@ -204,7 +204,7 @@ Weiter nach dem Zeitplan arbeiten
 
 # 26.05.2023 KW21
 
-Heute habe ich noch ein wenig Zeitaufwan ins Projekt gesteckt. Ich glaube es waren zirka 30 Minuten
+Heute habe ich noch ein wenig Zeitaufwand ins Projekt gesteckt. Ich glaube es waren zirka 30 Minuten.
 
 | **Zeit** | **Tätigkeit** |
 | --- | --- |
@@ -223,3 +223,137 @@ Heute gibt es nichts negatives
 Nächste Arbeitsschritte:
 
 Weiter nach dem Zeitplan arbeiten
+
+# 31.05.2023 KW22
+
+Auch heute hab ich wieder kurz am Projekt gearbeitet. Es waren Zirka 20 Minuten.
+
+| **Zeit** | **Tätigkeit** |
+| --- | --- |
+| **Gesamte Zeit** | An Auftrag arbeiten |
+
+Ich habe ein paar bestandteile am Titelblatt geändert. Mehr ist danach nicht mehr passiert. Eigentlich habe ich hier geschaut, das alles automatisiert ist
+
+**+Positive Erfahrungen**
+
+Die Versionierung auf der Titelseite erneuert automatisch im Gesamtem Dokument die Version
+
+**-Negative Erfahrungen**
+
+Heute gibt es nichts negatives
+
+Nächste Arbeitsschritte:
+
+Weiter nach dem Zeitplan arbeiten
+
+# 31.05.2023 KW22
+
+Heute hatten wir in der Schule 4 Lektionen für das Projekt Zeit
+
+| **Zeit** | **Tätigkeit** |
+| --- | --- |
+| **Gesamte Zeit** | An Auftrag arbeiten |
+
+Ich habe ein paar bestandteile am Titelblatt geändert. Eigentlich habe ich hier geschaut, das alles automatisiert ist. Als nächstes habe ich Franziska weiterhin bei der Realisierung geholfen und heute haben wir es zum ersten mal zum laufen gebracht. Leider ging es danach aber nicht mehr. Was sehr frustrierend war.
+
+**+Positive Erfahrungen**
+
+Die Versionierung auf der Titelseite erneuert automatisch im Gesamtem Dokument die Version
+
+**-Negative Erfahrungen**
+
+Unsere Lösung ging einfach nicht mehr. Wir wussten auch nicht wieso und deshalb kamen wir extrem unter Zeitdruck.
+
+Nächste Arbeitsschritte:
+
+Weiter nach dem Zeitplan arbeiten
+
+# 31.05.2023 KW22
+
+Heute hatten wir in der Schule 4 Lektionen für das Projekt Zeit
+
+| **Zeit** | **Tätigkeit** |
+| --- | --- |
+| **Gesamte Zeit** | An Auftrag arbeiten |
+
+Ich habe ein paar bestandteile am Titelblatt geändert. Eigentlich habe ich hier geschaut, das alles automatisiert ist. Als nächstes habe ich Franziska weiterhin bei der Realisierung geholfen und heute haben wir es zum ersten mal zum laufen gebracht. Leider ging es danach aber nicht mehr. Was sehr frustrierend war.
+
+**+Positive Erfahrungen**
+
+Die Versionierung auf der Titelseite erneuert automatisch im Gesamtem Dokument die Version
+
+**-Negative Erfahrungen**
+
+Unsere Lösung ging einfach nicht mehr. Wir wussten auch nicht wieso und deshalb kamen wir extrem unter Zeitdruck.
+
+Nächste Arbeitsschritte:
+
+Weiter nach dem Zeitplan arbeiten
+
+# 02.06.2023 KW22
+
+Heute war ich eher lang noch am Projekt dran. Zirka 5 Stunden und es ging immer noch nicht.
+
+| **Zeit** | **Tätigkeit** |
+| --- | --- |
+| **Gesamte Zeit** | An Auftrag arbeiten |
+
+Ich habe unser Docker-Compose nochmals von Grundauf analysiert und umgeschrieben aber es ging danach auch nicht. Deshalb habe ich mich an den Dump gesessen was mich auch nicht weitergebracht hat. Ich war danach gefühlt eine endlose Zeit auf Google und habe einfach nichts gefunden. Irgendwan kam danach Franziska zur Unterstützung. Irgendwie haben wir es dann zum laufen gebracht und haben uns sehr gefreut das es nun endlich funktioniert
+
+**+Positive Erfahrungen**
+
+Es funktioniert und es spuckt keine Fehlermeldungen. Ich war schon lange nicht mehr so glücklich das etwas tut.
+
+**-Negative Erfahrungen**
+
+Ich habe extrem viel Zeit in dieses Projekt gesteckt, was sich aber auch gelohnt hat.
+
+Nächste Arbeitsschritte:
+
+Weiter nach dem Zeitplan arbeiten
+
+# 03.06.2023 KW22
+
+Heute war ich lediglich kurz am Projekt, nach gestern brauche ich zuerst einmal Erholung. Ich war glaube ich einmal so 30 Minuten dran.
+
+| **Zeit** | **Tätigkeit** |
+| --- | --- |
+| **Gesamte Zeit** | Einleitung Dokumentation schreiben |
+
+Ich habe lediglich das erste Kapitel der Dokumentation geschrieben. Hierfür war ich aber auch schon genug lang dran.
+
+**+Positive Erfahrungen**
+
+Das Projekt funktioniert und ich konnte beruhigt an den Dokumenten dazu arbeiten.
+
+**-Negative Erfahrungen**
+
+Heute ist nichts negatives passiert.
+
+Nächste Arbeitsschritte:
+
+Weiter nach dem Zeitplan arbeiten
+
+# 03.06.2023 KW22
+
+Heute war ich etwa 7 Stunden am Projekt gearbeitet
+
+| **Zeit** | **Tätigkeit** |
+| --- | --- |
+| **Gesamte Zeit** | Alle Dokumente vollenden |
+
+Ich habe mich heute daran gesessen alle Dokumnente fertig zu schreiben, damit wir diese am Abend beruhigt abgeben können. ICh bekam zum glück auch unterstützung und so ging die Zeit schnell vorbei. Vorallem hat es mir gefallen als ich zuletzt die Refelxion schreiben konnte, da ich gerne über dieses Trauma reden wollte.
+
+**+Positive Erfahrungen**
+
+Das Projekt funktioniert und alle Dokumente sind fertig. Also Sprich die Abgabe fand statt. 
+
+**-Negative Erfahrungen**
+
+Es gibt nichts negatives, das Projekt ist jetzt eigentlich fertig.
+
+Nächste Arbeitsschritte:
+
+Weiter nach dem Zeitplan arbeiten
+
+
